@@ -9,4 +9,4 @@ A simple third-person game developed using C++ and SFML.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/third-person-game.git
+   git clone https://github.com/username/Simple-3d-game.git
